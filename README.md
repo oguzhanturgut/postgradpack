@@ -1,1 +1,1 @@
-# postgradpack
+# Post Graduation Pack Solutions
